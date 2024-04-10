@@ -56,8 +56,10 @@ git clone https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System
 1. Visit the application in your web browser.
 2. Sign up or log in to access the system.
 3. Explore the products, add items to your cart, and proceed to checkout.
-4. Choose a payment option and complete the transaction.
-5. Manage products and orders using the manager control panel.
+4. A Qr is generated to track the order status.
+5.  Give Order details
+6. Choose a payment option and complete the transaction.
+7. Manage products and orders using the manager control panel.
 
 ## License
 
