@@ -11,9 +11,21 @@ Qr Enhanced Inventory Management System is a web-based application for managing 
 - **Location Details**: Collects location details from users during checkout for accurate delivery.
 - **Payment Options**: Supports online payment and cash on delivery.
 - **Responsive Design**: The application is responsive and works well on desktop and mobile devices.
-
-
-
+  ## Screens
+- ![Screenshot 2024-03-18 103112](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/3b1098bc-3a4b-48f8-8645-9861bbc143f3)
+- ![Screenshot 2024-03-18 103419](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/466081b5-b55d-4a18-b2b5-0648763baf8f)
+- ![Screenshot 2024-03-18 103457](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/e3b9a339-6abd-4262-a79c-18b0338b2961)
+- ![Screenshot 2024-03-18 103816](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/9b846b44-342b-43c5-865e-6cb3bbc3ea44)
+- ![Screenshot 2024-03-18 104334](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/1d50caea-c287-4085-ad7e-23c9acf7ed0e)
+- ![Screenshot 2024-03-13 172201](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/2aa42c1e-b687-4f3b-83f6-439fd783e0c5)
+- ![Screenshot 2024-03-13 173105](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/23a71307-45a2-481b-ae85-9e19293008c9)
+- ![Screenshot 2024-03-13 220642](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/8b6aab5e-85d3-4a2f-a06e-311f8bdfe64d)
+  ![Screenshot 2024-03-13 220716](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/9c66fd1c-1329-4ead-b9b8-801222e2394f)
+  ![Screenshot 2024-03-13 220748](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/03d46e01-00a6-40ff-9758-27989dab08dd)
+  ![Screenshot 2024-03-13 221003](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/a2e5a57a-805b-44fa-bdcd-f6d2ea61223b)
+  ![Screenshot 2024-03-13 173447](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/53c12e38-e4ef-42ad-94b8-8bff32a5481a)
+  ![Screenshot 2024-03-13 230026](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/5ceafba4-a264-40a3-ae72-f7347b17f5bd)
+  ![Screenshot 2024-03-13 230653](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/9d04aeb1-f3d4-4d64-86bc-d341e67cecb2)
 
 ## Technologies Used
 
