@@ -1,0 +1,1 @@
+# Qr-Enhanced-Invemtory-Management-System
