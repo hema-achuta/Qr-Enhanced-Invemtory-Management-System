@@ -43,7 +43,7 @@ notification to the shipper that the product is ready for shipping. Furthermore,
 
 1. Clone the repository:
 
-git clone https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System.git
+git clone https://github.com/hema-achuta/Qr-Enhanced-Inventory-Management-System.git
 
 2. Import the SQL file `foodorder.sql` into your MySQL database.
 
