@@ -26,6 +26,7 @@ notification to the shipper that the product is ready for shipping. Furthermore,
 - ![Screenshot 2024-03-13 173105](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/23a71307-45a2-481b-ae85-9e19293008c9)
 - ![Screenshot 2024-03-13 220642](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/8b6aab5e-85d3-4a2f-a06e-311f8bdfe64d)
   ![Screenshot 2024-03-13 220716](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/9c66fd1c-1329-4ead-b9b8-801222e2394f)
+  ![image](https://github.com/hema-achuta/Qr-Enhanced-Inventory-Management-System/assets/76195440/43e563f3-3870-46d5-bb6b-8ef91ef7b8f1)
   ![Screenshot 2024-03-13 220748](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/03d46e01-00a6-40ff-9758-27989dab08dd)
   ![Screenshot 2024-03-13 220913](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/b6984323-b2b8-49d1-ae2e-7b788faf6b9a)
   ![Screenshot 2024-03-13 221003](https://github.com/hema-achuta/Qr-Enhanced-Invemtory-Management-System/assets/76195440/a2e5a57a-805b-44fa-bdcd-f6d2ea61223b)
